@@ -1,4 +1,5 @@
 # Julia Set Explorer
+<img width="460" height="377" alt="image" src="https://github.com/user-attachments/assets/f65f8260-6280-4652-90d3-64efd1a45221" />
 
 An interactive Julia set viewer written in C++ with [SFML 3](https://www.sfml-dev.org/) and a GLSL fragment shader. The fractal is rendered on the GPU, so you can zoom, pan, and change the Julia seed in real time.
 
